@@ -261,6 +261,21 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://handaepyo.maphoshirts.live/posts.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://handaepyo.maphoshirts.live/posts-2.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://handaepyo.maphoshirts.live/posts-3.html</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://handaepyo.maphoshirts.live/feed.xml</loc>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
